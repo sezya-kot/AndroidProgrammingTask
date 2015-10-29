@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidProgrammingTask</string>
+    <string name="title_activity_main">Android Programming Task</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="incorrect_credentials">Incorrect credentials</string>
+    <string name="error_incorect_key">Incorrect key params</string>
+    <string name="title_activity_world_list_activity">WorldListAcitivity</string>
+</resources>
